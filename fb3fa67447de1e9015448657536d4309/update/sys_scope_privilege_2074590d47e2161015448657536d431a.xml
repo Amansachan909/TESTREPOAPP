@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="TEST REPO APP">fb3fa67447de1e9015448657536d4309</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>ankur.j</sys_created_by>
+        <sys_created_on>2024-12-16 15:58:41</sys_created_on>
+        <sys_id>2074590d47e2161015448657536d431a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SPEntryPage</sys_name>
+        <sys_package display_value="TEST REPO APP" source="x_niit3_test_repo">fb3fa67447de1e9015448657536d4309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST REPO APP">fb3fa67447de1e9015448657536d4309</sys_scope>
+        <sys_update_name>sys_scope_privilege_2074590d47e2161015448657536d431a</sys_update_name>
+        <sys_updated_by>ankur.j</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:58:41</sys_updated_on>
+        <target_name>SPEntryPage</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
