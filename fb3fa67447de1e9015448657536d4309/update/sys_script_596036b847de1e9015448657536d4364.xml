@@ -31,7 +31,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-gs.log('TEST ANKUR');
+gs.log('TEST ANKUR BRANCH 1');
 gs.log('Branch1EDIT');
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -40,7 +40,7 @@ gs.log('Branch1EDIT');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>596036b847de1e9015448657536d4364</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>TEST ANKUR</sys_name>
         <sys_overrides/>
         <sys_package display_value="TEST REPO APP" source="x_niit3_test_repo">fb3fa67447de1e9015448657536d4309</sys_package>
@@ -48,7 +48,7 @@ gs.log('Branch1EDIT');
         <sys_scope display_value="TEST REPO APP">fb3fa67447de1e9015448657536d4309</sys_scope>
         <sys_update_name>sys_script_596036b847de1e9015448657536d4364</sys_update_name>
         <sys_updated_by>ankur.j</sys_updated_by>
-        <sys_updated_on>2024-12-24 15:54:26</sys_updated_on>
+        <sys_updated_on>2024-12-24 16:52:48</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
